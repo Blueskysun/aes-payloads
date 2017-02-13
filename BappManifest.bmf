@@ -1,6 +1,7 @@
 Uuid: 7718318c8ae94d329e8037454585faba
 ExtensionType: 1
 Name: AES Payloads
+RepoName: aes-payloads
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
